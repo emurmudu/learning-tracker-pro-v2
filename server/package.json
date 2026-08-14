@@ -13,5 +13,9 @@
     "express": "^5.1.0",
     "firebase-admin": "^14.2.0",
     "mongoose": "^8.10.0"
+  },
+  "allowScripts": {
+    "@firebase/util@1.15.2": true,
+    "protobufjs": false
   }
 }

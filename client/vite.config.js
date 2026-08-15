@@ -33,14 +33,14 @@ export default defineConfig({
         screenshots: [
           {
             src: "/screenshots/dashboard-wide.png",
-            sizes: "1280x680",
+            sizes: "1280x682",
             type: "image/png",
             form_factor: "wide",
             label: "Learning Tracker Pro dashboard",
           },
           {
             src: "/screenshots/dashboard-mobile.png",
-            sizes: "478x686",
+            sizes: "478x673",
             type: "image/png",
             form_factor: "narrow",
             label: "Learning Tracker Pro mobile dashboard",
